@@ -1,7 +1,5 @@
-Below is a **copy-paste ready `README.md`** that matches your rubric, reads clean, and tells a newcomer exactly what to do ✅✨
-(You can drop this directly into your repo root as `README.md`.)
-
-````markdown
+---
+----
 # Week 5 — Data Preprocessing Workshop Submission (Data Tidying + Cleaning + Outliers)
 
 ## Executive Summary (What this notebook delivers)
@@ -13,7 +11,7 @@ The notebook is designed to be:
 - ✅ **Reproducible** (relative file paths, requirements pinned)
 - ✅ **Readable** (strong markdown + clear code intent)
 - ✅ **Rubric-aligned** (tidying → cleaning → outliers, with EDA + talking points)
-
+----
 ---
 
 ## Learning Outcomes (What we’re actually learning)
@@ -72,7 +70,7 @@ Lab4--Workshop/
     ├── cars.csv                           # Cars dataset for cleaning
     └── diabetes.csv                       # Diabetes dataset for outlier detection
 ````
-
+---
 ---
 
 ## How to Run (Step-by-step, first-time friendly)
